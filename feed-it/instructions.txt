@@ -1,0 +1,11 @@
+													Feed it.
+--------------------------------------------------------------------------------------------------------------------
+
+1. Make sure that Nodejs and NPM has been installed on your system.
+2. Open command prompt and go into the directory where package.json of code is residing.
+3. run command npm install
+4. After execution of command run npm start
+
+---------------------------------------------------------------------------------------------------------------------
+
+													Thank you !
